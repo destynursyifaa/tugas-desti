@@ -9,3 +9,9 @@ int main()
 	double a1c[5]={4,4,5,3,3}, a2c[5]={3,3,4,2,3}, a3c[5]={5,4,2,2,2};
 	//x
 	cout << "MATRIX X :"<<endl;
+	int kuda1=0;
+	do{
+		cout << a1c[kuda1]<<" | ";
+		kuda1++;
+	}while(kuda1<5);cout<<endl;
+	int kuda2=0;
