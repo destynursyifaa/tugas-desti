@@ -67,3 +67,8 @@ int main()
 		cout << RWa1c[domba1]<<" | ";
 		domba1++;
 	}while(domba1<5);cout<<endl;
+	int domba2=0;
+	do{
+		cout << RWa2c[domba2]<<" | ";
+		domba2++;
+	}while(domba2<5);cout<<endl;
