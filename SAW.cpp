@@ -62,3 +62,8 @@ int main()
 	//r*w
 	cout << endl<<endl;
 		cout << "MATRIX R * W :"<<endl;
+		int domba1=0;
+	do{
+		cout << RWa1c[domba1]<<" | ";
+		domba1++;
+	}while(domba1<5);cout<<endl;
